@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dilip Khattri 👋</h1>
+<p align="center">Web & Android Developer from Nepal 🇳🇵 | Building apps people actually use</p>
 
-<!--
-**Dilip-Khattri/Dilip-Khattri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Nepal-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Dilip-Khattri?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Dilip-Khattri&style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 What I'm building
+- **Naam Aayo** – Android app for Nepal result/winner list checks
+- **Boli** – Timed online auction marketplace for Nepal
+- **Advance Task Manager** – TypeScript task manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,react,nextjs,tailwind,nodejs,mysql,git,figma,kotlin" />
+</p>
+
+### 📊 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dilip-Khattri&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Khattri&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
