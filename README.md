@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b17,50:1e3a5f,100:4c1d95&height=240&section=header&text=Hi%20there%2C%20I%27m%20Dilip%20Khattri&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20Android%20Developer%20from%20Nepal&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b17,50:1e3a5f,100:4c1d95&height=240&section=header&text=Hi%20there%2C%20I%27m%20Dilip%20Khattri&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20Android%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/Dilip-Khattri">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+modern+websites;I+build+Android+apps;I+build+marketplaces+for+Nepal;I+build+AI+automations" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Android+App+Developer;AI+Automation+Builder" alt="typing" />
 </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR-WEBSITE"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/dilip-khattri-4699b8312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dilipkhattri.com.np"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=Dilip-Khattri&style=for-the-badge&label=PROFILE+VIEWS&color=22d3ee&labelColor=0f172a" alt="views"/>
 
 </div>
@@ -25,10 +24,8 @@
 {
   "name": "Dilip Khattri",
   "role": "Full-Stack Web & Android Developer",
-  "location": "Nepal",
   "focus": ["Web apps", "Android apps", "AI automation"],
-  "stack": "TypeScript, PHP, Kotlin, Next.js",
-  "building": "Apps and platforms for Nepal"
+  "stack": "TypeScript, PHP, Kotlin, Next.js"
 }
 ```
 
@@ -64,12 +61,6 @@ When you make a repo public, remove the <!-- and --> around its line below (repl
 <p align="center">
   <!-- <a href="https://github.com/Dilip-Khattri/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Khattri&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> -->
   <!-- <a href="https://github.com/Dilip-Khattri/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Khattri&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> -->
-</p>
-
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,tailwind,nodejs,mysql,kotlin,androidstudio,git,figma&theme=dark" alt="stack" />
 </p>
 
 ## GitHub stats
